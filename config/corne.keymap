@@ -40,7 +40,7 @@
 &trans  &kp ESC       &kp PAGE_DOWN  &kp UP_ARROW  &kp PAGE_UP  &kp C_VOLUME_UP      &none       &kp N7        &kp N8        &kp N9        &kp N0         &kp EQUAL
 &trans  &kp LEFT_WIN  &kp LEFT       &kp DOWN      &kp RIGHT    &kp C_VOLUME_DOWN    &kp COMMA   &kp NUMBER_4  &kp N5        &kp NUMBER_6  &kp LBKT       &kp RBKT
 &trans  &mo 2         &none          &none         &none        &kp K_MUTE           &kp PERIOD  &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &kp BACKSLASH  &kp GRAVE
-                                     &trans        &trans       &trans               &trans      &trans        &to 0
+                                     &trans        &trans       &trans               &trans      &trans        &kp NUMBER_0
             >;
         };
 
